@@ -1,0 +1,23 @@
+[
+  {
+    "full_name": "Rich",
+    "phone_number": "123456789",
+    "email": "rich@email.com",
+    "tags": "friends,clients,gym",
+    "id": 2
+  },
+  {
+    "full_name": "Kimberley",
+    "phone_number": "123456789",
+    "email": "kim@newemail.com",
+    "tags": "friends",
+    "id": 4
+  },
+  {
+    "full_name": "aszdfxcbgv",
+    "phone_number": "gfhj",
+    "email": "sdfghj",
+    "tags": "gym",
+    "id": 5
+  }
+]
